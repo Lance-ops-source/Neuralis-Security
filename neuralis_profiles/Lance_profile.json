@@ -1,0 +1,14 @@
+{
+  "username": "Lance",
+  "created": "2026-03-25T17:38:47.195335",
+  "sessions_analyzed": 2,
+  "average_stats": {
+    "avg_gap": 369.1627073365231,
+    "avg_std": 261.9853067220757,
+    "avg_human_score": 62.5
+  },
+  "human_scores": [
+    40,
+    85
+  ]
+}
